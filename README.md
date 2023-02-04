@@ -30,6 +30,8 @@ while(dev.isAwake()) {
   
 </p>
 
+<hr>
+
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
 <p align="center">
