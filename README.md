@@ -17,7 +17,7 @@ while(dev.isAwake()) {
 
 <h2 align="center">SKILLS</h2>
 <p align="center">
-  <img class="logo" src="https://i.postimg.cc/SRHSgx0w/android.png" height="45px">
+  <img class="logo" src="https://w7.pngwing.com/pngs/79/518/png-transparent-js-react-js-logo-react-react-native-logos-icon-thumbnail.png" height="45px">
   <img src="https://cdn.iconscout.com/icon/free/png-512/kotlin-2752140-2284957.png?f=avif&w=256" height="45px">
   <img src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png?f=avif&w=256" height="45px">
   <img src="https://cdn.iconscout.com/icon/free/png-512/c-57-1175191.png?f=avif&w=256" height="45px">
@@ -26,7 +26,8 @@ while(dev.isAwake()) {
   <img src="https://cdn.iconscout.com/icon/free/png-512/css-38-226095.png?f=avif&w=256" height="45px">
   <img src="https://cdn.iconscout.com/icon/free/png-512/sass-226054.png?f=avif&w=256" height="45px">
   <img src="https://cdn.iconscout.com/icon/free/png-512/javascript-1-225993.png?f=avif&w=256" height="45px">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/django-1-282754.png?f=avif&w=256" height="45px">
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" height="45px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/150px-Tux.svg.png" height="45px">
   
 </p>
 
